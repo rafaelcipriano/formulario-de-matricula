@@ -45,3 +45,15 @@ h2 {
 img {
   max-width: 100%;
 }
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
+}
